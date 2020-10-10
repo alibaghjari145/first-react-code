@@ -1,0 +1,30 @@
+ul li{
+    float: right;
+  width: 150px;
+  height: 30px;
+border-radius: 4px;
+color: #000000;
+font-size: 50px;
+
+background-color: #f4fa57;
+padding: 10px;
+margin: 10px;
+list-style-type:none;
+font-size: large;
+}
+li:hover{
+  background-color: #0d0a29;
+  color: #ffffff;
+}
+ div.nav{
+background-color: #150c5c;
+background-image: url("./img/unnamed.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+    margin-top: 0;
+    height:500px;
+    padding-top: 30px;
+
+}
+ul{
+}

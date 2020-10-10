@@ -1,0 +1,25 @@
+p{
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.maindiv{
+    width: 250px;
+    height: 250px;
+    border: 3px solid #3e404f;
+    border-radius: 8px;
+    display: inline-block;
+    text-justify: auto;
+    padding: 15px;
+    margin: 15px;
+}
+.maindiv button{
+    width: 80;
+    height: 35px;
+
+}
+.maindiv p{
+    color: black;
+border-bottom: 2px solid #3e404f ;
+}

@@ -1,0 +1,11 @@
+ .foot p,h2{
+    text-align: center;
+    color: white;
+}
+.foot{
+    background-color: #0d0a29;
+    margin-bottom: 0;
+    height: 300px;
+    padding: 20px;
+
+}
